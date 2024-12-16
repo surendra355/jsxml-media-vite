@@ -1,0 +1,70 @@
+.glPoster{
+  width: 440px;
+  border-radius: 20px;
+}
+.glAudio{
+  display: inline-block;
+  align-items:center;
+  margin: 15px;
+  width: 340px;
+}
+.glTrailer{
+  margin: 15px;
+  display: inline-block;
+  align-items: right;
+  width: 440px;
+}
+.lbImage{
+  width: 440px;
+  margin: 10px;
+  border-radius: 20px;
+}
+.lbAudio{
+  display: inline-block;
+  align-items: center;
+  width: 340px;
+  margin: 15px;
+}
+.lbTrailer{
+  margin: 10px;
+  display: inline-block;
+  align-items: right;
+  width: 440px;
+}
+
+.p2Poster{
+  width: 440px;
+  margin: 10px;
+  border-radius: 20px;
+
+}
+.p2Audio{
+  display: inline-block;
+  align-items: center;
+  width: 340px;
+  margin: 15px;
+}
+.p2Trailer{
+  margin: 15px;
+  display: inline-block;
+  align-items: right;
+  width: 440px;
+}
+h1::first-letter{
+  color: red;
+  font-size: 2.5rem;
+  
+}
+h1{
+  width: 98%;
+  color: aliceblue;
+  text-align: center;
+  background-color: rgb(23, 27, 20);
+  border: inset 10px;
+}
+*{width: 100%;
+  background-color: rgb(145, 138, 74);
+}
+p{
+  color: black;
+}
